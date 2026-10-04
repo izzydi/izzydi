@@ -4,12 +4,12 @@
 
 ### Data Science · Machine Learning · Statistical Modelling · Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1F425F?style=for-the-badge)
-![H2O](https://img.shields.io/badge/H2O-00A6D6?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1F425F?style=for-the-badge)](https://xgboost.readthedocs.io/)
+[![H2O](https://img.shields.io/badge/H2O-00A6D6?style=for-the-badge)](https://h2o.ai/)
 
 [![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izzydi/data-science-portfolio)
 
@@ -29,20 +29,20 @@ My approach is grounded in quantitative problem-solving: define the problem clea
 | 🏨 [Hotel Cancellation Prediction](https://github.com/izzydi/hotel-cancellation-prediction) | Classification with a practical business focus | Python · pandas · scikit-learn |
 | 🔬 [Wave-Function Anomaly Detection](https://github.com/izzydi/wave-function-anomaly-detection) | High-dimensional scientific data and anomaly-oriented modelling | R · H2O · XGBoost |
 | 🧠 [Keras Autoencoder in R](https://github.com/izzydi/keras-autoencoder-r) | Neural representation learning and downstream classification | R · keras3 · TensorFlow · XGBoost |
-| 📊 [Feature Selection & UMAP Classification](https://github.com/izzydi/feature-selection-umap-classification) | Feature selection, nonlinear classification and manifold learning | Python · RF · XGBoost · UMAP |
+| 📊 [Feature Selection & UMAP Classification](https://github.com/izzydi/feature-selection-umap-classification) | Feature selection, nonlinear classification and manifold learning | Python · Random Forest · XGBoost · UMAP |
 | 🧭 [Supervised UMAP](https://github.com/izzydi/supervised-umap-python) | Dimensionality reduction with train-only preprocessing | Python · UMAP · scikit-learn |
 
 ## Technical toolkit
 
 <p align="center">
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-5C6BC0?style=flat-square)
-![tidymodels](https://img.shields.io/badge/tidymodels-2780E3?style=flat-square)
-![UMAP](https://img.shields.io/badge/UMAP-7B61FF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-5C6BC0?style=flat-square)](https://ggplot2.tidyverse.org/)
+[![tidymodels](https://img.shields.io/badge/tidymodels-2780E3?style=flat-square)](https://www.tidymodels.org/)
+[![UMAP](https://img.shields.io/badge/UMAP-7B61FF?style=flat-square)](https://umap-learn.readthedocs.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 </p>
 
@@ -53,6 +53,7 @@ My approach is grounded in quantitative problem-solving: define the problem clea
 - Build reproducible workflows rather than one-off analyses.
 - Keep preprocessing and validation boundaries explicit to avoid data leakage.
 - Start with interpretable baselines before adding unnecessary complexity.
+- Use automated smoke/syntax checks and CI on maintained workflows.
 - Document assumptions, limitations and data requirements clearly.
 - Treat communication and reproducibility as part of the technical work.
 

@@ -28,8 +28,8 @@ My approach is grounded in quantitative problem-solving: define the problem clea
 | 🏥 [Hospital Readmission Prediction](https://github.com/izzydi/hospital-readmission-prediction) | End-to-end healthcare ML and predictive modelling | Python · pandas · scikit-learn |
 | 🏨 [Hotel Cancellation Prediction](https://github.com/izzydi/hotel-cancellation-prediction) | Classification with a practical business focus | Python · pandas · scikit-learn |
 | 🔬 [Wave-Function Anomaly Detection](https://github.com/izzydi/wave-function-anomaly-detection) | High-dimensional scientific data and anomaly-oriented modelling | R · H2O · XGBoost |
-| 🧠 [Keras Autoencoder in R](https://github.com/izzydi/keras-autoencoder-r) | Neural representation learning and downstream classification | R · Keras · TensorFlow |
-| 📊 [Feature Selection & UMAP Classification](https://github.com/izzydi/feature-selection-umap-classification) | Feature selection, nonlinear classification and manifold learning | Python · RF · SVM · XGBoost · UMAP |
+| 🧠 [Keras Autoencoder in R](https://github.com/izzydi/keras-autoencoder-r) | Neural representation learning and downstream classification | R · keras3 · TensorFlow · XGBoost |
+| 📊 [Feature Selection & UMAP Classification](https://github.com/izzydi/feature-selection-umap-classification) | Feature selection, nonlinear classification and manifold learning | Python · RF · XGBoost · UMAP |
 | 🧭 [Supervised UMAP](https://github.com/izzydi/supervised-umap-python) | Dimensionality reduction with train-only preprocessing | Python · UMAP · scikit-learn |
 
 ## Technical toolkit
@@ -58,7 +58,7 @@ My approach is grounded in quantitative problem-solving: define the problem clea
 
 ## Explore the portfolio
 
-The **[Data Science & Machine Learning Portfolio](https://github.com/izzydi/data-science-portfolio)** is the central index for the rest of my analytical work, including statistical modelling, geospatial analysis and additional machine-learning projects.
+The **[Data Science & Machine Learning Portfolio](https://github.com/izzydi/data-science-portfolio)** is the central index for the rest of my analytical work, including statistical modelling, geospatial analysis and clearly labelled historical artifacts.
 
 ---
 

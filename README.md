@@ -58,9 +58,9 @@ I also build mathematical visualisations in **Blender**, scripted in Python and 
 [![YouTube](https://img.shields.io/badge/YouTube-%40AlgoRithmic101YT-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AlgoRithmic101YT)
 [![Blender](https://img.shields.io/badge/Blender-Python_%C2%B7_Geometry_Nodes-E87D0D?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 
-I also build interactive maths lessons for school students. **[Fractal Lab](https://izzydi.github.io/fractal-lab/)** is a series of seven one-lesson labs in which students explore a fractal, work through its maths and run editable Python in the browser. Each lab ends with a challenge and a worked solution.
+I also build interactive maths lessons for school students. **[Fractal Lab](https://izzydi.github.io/fractal-lab/)** is a series of nine one-lesson labs in which students explore a fractal, work through its maths and run editable Python in the browser. Seven are for lower-secondary students and end with a challenge and a worked solution; two are for upper-secondary and university students, including a live, ray-marched 3D Mandelbulb.
 
-[Koch snowflake](https://izzydi.github.io/koch-fractal/) · [Menger sponge](https://izzydi.github.io/menger-sponge/) · [Sierpinski triangle](https://izzydi.github.io/fractal-lab/sierpinski-triangle/) · [Sierpinski tetrahedron](https://izzydi.github.io/fractal-lab/sierpinski-tetrahedron/) · [Pythagoras tree](https://izzydi.github.io/fractal-lab/pythagoras-tree/) · [Fractal tree](https://izzydi.github.io/fractal-lab/fractal-tree/) · [Dragon curve](https://izzydi.github.io/fractal-lab/dragon-curve/)
+[Koch snowflake](https://izzydi.github.io/koch-fractal/) · [Menger sponge](https://izzydi.github.io/menger-sponge/) · [Sierpinski triangle](https://izzydi.github.io/fractal-lab/sierpinski-triangle/) · [Sierpinski tetrahedron](https://izzydi.github.io/fractal-lab/sierpinski-tetrahedron/) · [Pythagoras tree](https://izzydi.github.io/fractal-lab/pythagoras-tree/) · [Fractal tree](https://izzydi.github.io/fractal-lab/fractal-tree/) · [Dragon curve](https://izzydi.github.io/fractal-lab/dragon-curve/) · [Mandelbrot set](https://izzydi.github.io/fractal-lab/mandelbrot/) · [Mandelbulb (3D)](https://izzydi.github.io/fractal-lab/mandelbulb/)
 
 ---
 

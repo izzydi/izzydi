@@ -58,7 +58,10 @@ I also build mathematical visualisations in **Blender**, scripted in Python and 
 [![YouTube](https://img.shields.io/badge/YouTube-%40AlgoRithmic101YT-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AlgoRithmic101YT)
 [![Blender](https://img.shields.io/badge/Blender-Python_%C2%B7_Geometry_Nodes-E87D0D?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 
-I also build interactive maths lessons for school students. **[Fractal Lab](https://izzydi.github.io/koch-fractal/)** walks students through the Koch snowflake step by step, with editable Python that runs in the browser ([source](https://github.com/izzydi/koch-fractal)).
+I also build interactive maths lessons for school students. **[Fractal Lab](https://izzydi.github.io/fractal-lab/)** is a series of one-lesson labs in which students explore a fractal, work through its maths and run editable Python in the browser:
+
+- [Koch snowflake](https://izzydi.github.io/koch-fractal/): recursion in 2D, with thirds, 60° angles and √3.
+- [Menger sponge](https://izzydi.github.io/menger-sponge/): a rotatable 3D sponge, cube counts and volume as fractions.
 
 ---
 

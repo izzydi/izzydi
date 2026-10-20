@@ -34,17 +34,7 @@ My approach is grounded in quantitative problem-solving: define the problem clea
 
 ## Technical toolkit
 
-<p align="center">
-
-[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![ggplot2](https://img.shields.io/badge/ggplot2-5C6BC0?style=flat-square)](https://ggplot2.tidyverse.org/)
-[![tidymodels](https://img.shields.io/badge/tidymodels-2780E3?style=flat-square)](https://www.tidymodels.org/)
-[![UMAP](https://img.shields.io/badge/UMAP-7B61FF?style=flat-square)](https://umap-learn.readthedocs.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-</p>
+**Tools:** pandas · NumPy · Jupyter · ggplot2 · tidymodels · UMAP · Git · GitHub Actions
 
 **Methods:** Classification · Regression · Feature Engineering · Cross-Validation · Dimensionality Reduction · Autoencoders · Anomaly Detection · Model Diagnostics · Imputation · Geospatial Analysis
 
@@ -60,6 +50,13 @@ My approach is grounded in quantitative problem-solving: define the problem clea
 ## Explore the portfolio
 
 The **[Data Science & Machine Learning Portfolio](https://github.com/izzydi/data-science-portfolio)** is the central index for the rest of my analytical work, including statistical modelling, geospatial analysis and clearly labelled historical artifacts.
+
+## Beyond data science
+
+I also build mathematical visualisations in **Blender**, scripted in Python and geometry nodes: fractals, Hopf fibrations, hyperbolic geometry and parametric surfaces. Short animations of this work are published on YouTube.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%40AlgoRithmic101YT-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AlgoRithmic101YT)
+[![Blender](https://img.shields.io/badge/Blender-Python_%C2%B7_Geometry_Nodes-E87D0D?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 
 ---
 
